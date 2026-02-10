@@ -29,10 +29,19 @@ Diseñar una base de datos relacional eficiente y aplicar técnicas de optimizac
 database/ → Scripts de creación de base de datos
 project/ → Script final del proyecto
 
-
 ## ✅ Estado
 ✔️ Módulo completado y aprobado
 
 ## 👤 Autor
 **Jairo Alejandro Salvatierra Samaniego**  
-Tecnólogo en Desarrollo de Software | Database & SQL Engineer
+Tecnólogo en Desarrollo de Software | Data Analytics | GenAI & BI
+- [LinkedIn](https://www.linkedin.com/in/jairo-salvatierra/)
+
+  **Contexto del Proyecto:**  
+Realizado como parte del **Coding Bootcamps ESPOL**, programa impulsado por el **Ministerio de Telecomunicaciones y de la Sociedad de la Información (MINTEL)** de Ecuador.
+
+## 📄 Licencia
+
+Este proyecto es de carácter educativo. Los datos son ficticios y se utilizan únicamente con fines de aprendizaje.
+---
+*Si este proyecto te resulta útil, ¡no olvides darle una estrella ⭐ en GitHub!*
