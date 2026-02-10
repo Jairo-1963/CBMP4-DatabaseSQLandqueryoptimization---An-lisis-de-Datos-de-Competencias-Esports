@@ -34,7 +34,7 @@ project/ → Script final del proyecto
 
 ## 👤 Autor
 **Jairo Alejandro Salvatierra Samaniego**  
-Tecnólogo en Desarrollo de Software | Data Analytics | GenAI & BI
+Tecnólogo en Desarrollo de Software | Data Analytics | Database & SQL Engineer
 - [LinkedIn](https://www.linkedin.com/in/jairo-salvatierra/)
 
   **Contexto del Proyecto:**  
